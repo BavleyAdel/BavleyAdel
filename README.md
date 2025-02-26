@@ -1,5 +1,5 @@
 # <div align="center">Bavly Adel 🚀</div>
-### <div align="center">Full-Stack Developer |Senior Computer Science 2025 </div>
+### <div align="center">Full-Stack Developer | Senior Computer Science 2025 </div>
 
 ---
 
